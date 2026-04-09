@@ -22,7 +22,6 @@ compare-models/
 ├── preprocess.py        # Data loading, preprocessing, and fold creation
 ├── distributions.py     # Beta, Poisson, Binomial, Exponential distributions (for regularized baselines)
 ├── config.py            # Penalty/weight matrix configurations
-├── t-test.py            # Statistical significance testing on results
 └── data/
     └── APTOS 2019 Blindness Detection/
         └── train/       # Training images + fold CSVs (auto-generated on first run)
