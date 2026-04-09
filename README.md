@@ -39,8 +39,6 @@ compare-models/
 | `categorical_ce_binomial_regularized` | CE with Binomial label regularization | CE-B |
 | `categorical_ce_exponential_regularized` | CE with Exponential label regularization | CE-E |
 | `ordinal_loss` | Distance-aware ordinal penalty loss (Chen et al., 2019) | OL |
-| `weights_cross_entropy_loss` | Class-weighted cross-entropy | WCE |
-| `ordinal_ce_beta_regularized` | OCE with Beta label regularization | — |
 
 ## Architectures
 
